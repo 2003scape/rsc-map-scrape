@@ -5,6 +5,7 @@
 ## install
 
     $ git clone https://github.com/2003scape/rsc-map-scrape
+    $ cd rsc-map-scrape && npm install
 
 ## usage
 change the scrape order and individual key thresholds in `key.json` then run:
