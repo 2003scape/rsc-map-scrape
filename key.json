@@ -1,0 +1,170 @@
+[
+    {
+        "name": "altar",
+        "threshold": 0.05
+    },
+    {
+        "name": "amulet-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "anvil",
+        "threshold": 0.08
+    },
+    {
+        "name": "apothecary",
+        "threshold": 0.05
+    },
+    {
+        "name": "archery-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "armour-conversion",
+        "threshold": 0.05
+    },
+    {
+        "name": "axe-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "bank",
+        "threshold": 0.05
+    },
+    {
+        "name": "bed",
+        "threshold": 0.05
+    },
+    {
+        "name": "body-armour-shop",
+        "threshold": 0.01
+    },
+    {
+        "name": "certificate-trader",
+        "threshold": 0.05
+    },
+    {
+        "name": "tannery",
+        "threshold": 0.005
+    },
+    {
+        "name": "clothes-shop",
+        "threshold": 0.01
+    },
+    {
+        "name": "combat-practice",
+        "threshold": 0.01
+    },
+    {
+        "name": "cookery-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "crafting-shop",
+        "threshold": 0.02
+    },
+    {
+        "name": "fishing-shop",
+        "threshold": 0.02
+    },
+    {
+        "name": "fishing-point",
+        "threshold": 0.05
+    },
+    {
+        "name": "food-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "shield-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "furnace",
+        "threshold": 0.08
+    },
+    {
+        "name": "gem-shop",
+        "threshold": 0.02
+    },
+    {
+        "name": "general-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "helmet-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "herblaw-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "jewellery-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "kebab-shop",
+        "threshold": 0.01
+    },
+    {
+        "name": "leg-armour-shop",
+        "threshold": 0.01
+    },
+    {
+        "name": "mace-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "magic-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "mining-site",
+        "threshold": 0.05
+    },
+    {
+        "name": "pickable-lock",
+        "threshold": 0.05
+    },
+    {
+        "name": "pub",
+        "threshold": 0.05
+    },
+    {
+        "name": "scimitar-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "silk-trader",
+        "threshold": 0.02
+    },
+    {
+        "name": "skirt-armour-shop",
+        "threshold": 0.01
+    },
+    {
+        "name": "spinning-wheel",
+        "threshold": 0.05
+    },
+    {
+        "name": "staff-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "sword-shop",
+        "threshold": 0.05
+    },
+    {
+        "name": "rare-trees",
+        "threshold": 0.05
+    },
+    {
+        "name": "quest",
+        "threshold": 0.1
+    },
+    {
+        "name": "dungeon",
+        "threshold": 0.2
+    }
+]

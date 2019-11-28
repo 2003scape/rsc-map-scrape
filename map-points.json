@@ -1,0 +1,1317 @@
+[
+    {
+        "type": "altar",
+        "x": 524,
+        "y": 698
+    },
+    {
+        "type": "altar",
+        "x": 549,
+        "y": 473
+    },
+    {
+        "type": "altar",
+        "x": 718,
+        "y": 122
+    },
+    {
+        "type": "altar",
+        "x": 867,
+        "y": 17
+    },
+    {
+        "type": "altar",
+        "x": 1063,
+        "y": 383
+    },
+    {
+        "type": "altar",
+        "x": 1169,
+        "y": 6
+    },
+    {
+        "type": "altar",
+        "x": 1232,
+        "y": 87
+    },
+    {
+        "type": "altar",
+        "x": 1383,
+        "y": 762
+    },
+    {
+        "type": "altar",
+        "x": 1465,
+        "y": 34
+    },
+    {
+        "type": "altar",
+        "x": 1505,
+        "y": 74
+    },
+    {
+        "type": "altar",
+        "x": 1917,
+        "y": 80
+    },
+    {
+        "type": "altar",
+        "x": 1960,
+        "y": 705
+    },
+    {
+        "type": "altar",
+        "x": 1991,
+        "y": 129
+    },
+    {
+        "type": "altar",
+        "x": 1996,
+        "y": 291
+    },
+    {
+        "type": "amulet-shop",
+        "x": 973,
+        "y": 801
+    },
+    {
+        "type": "anvil",
+        "x": 313,
+        "y": 400
+    },
+    {
+        "type": "anvil",
+        "x": 550,
+        "y": 982
+    },
+    {
+        "type": "anvil",
+        "x": 587,
+        "y": 799
+    },
+    {
+        "type": "anvil",
+        "x": 596,
+        "y": 228
+    },
+    {
+        "type": "anvil",
+        "x": 756,
+        "y": 53
+    },
+    {
+        "type": "anvil",
+        "x": 935,
+        "y": 931
+    },
+    {
+        "type": "anvil",
+        "x": 1325,
+        "y": 164
+    },
+    {
+        "type": "anvil",
+        "x": 1416,
+        "y": 838
+    },
+    {
+        "type": "anvil",
+        "x": 1854,
+        "y": 234
+    },
+    {
+        "type": "anvil",
+        "x": 1947,
+        "y": 211
+    },
+    {
+        "type": "apothecary",
+        "x": 1863,
+        "y": 260
+    },
+    {
+        "type": "archery-shop",
+        "x": 1013,
+        "y": 165
+    },
+    {
+        "type": "archery-shop",
+        "x": 1946,
+        "y": 236
+    },
+    {
+        "type": "armour-conversion",
+        "x": 628,
+        "y": 505
+    },
+    {
+        "type": "armour-conversion",
+        "x": 1976,
+        "y": 256
+    },
+    {
+        "type": "axe-shop",
+        "x": 1499,
+        "y": 585
+    },
+    {
+        "type": "axe-shop",
+        "x": 1922,
+        "y": 701
+    },
+    {
+        "type": "bank",
+        "x": 139,
+        "y": 70
+    },
+    {
+        "type": "bank",
+        "x": 154,
+        "y": 214
+    },
+    {
+        "type": "bank",
+        "x": 530,
+        "y": 956
+    },
+    {
+        "type": "bank",
+        "x": 638,
+        "y": 539
+    },
+    {
+        "type": "bank",
+        "x": 973,
+        "y": 180
+    },
+    {
+        "type": "bank",
+        "x": 1301,
+        "y": 355
+    },
+    {
+        "type": "bank",
+        "x": 1444,
+        "y": 402
+    },
+    {
+        "type": "bank",
+        "x": 1639,
+        "y": 607
+    },
+    {
+        "type": "bank",
+        "x": 1647,
+        "y": 50
+    },
+    {
+        "type": "bank",
+        "x": 1846,
+        "y": 205
+    },
+    {
+        "type": "bank",
+        "x": 1986,
+        "y": 235
+    },
+    {
+        "type": "bank",
+        "x": 2022,
+        "y": 782
+    },
+    {
+        "type": "bed",
+        "x": 60,
+        "y": 109
+    },
+    {
+        "type": "bed",
+        "x": 244,
+        "y": 140
+    },
+    {
+        "type": "bed",
+        "x": 322,
+        "y": 30
+    },
+    {
+        "type": "bed",
+        "x": 354,
+        "y": 401
+    },
+    {
+        "type": "bed",
+        "x": 392,
+        "y": 393
+    },
+    {
+        "type": "bed",
+        "x": 408,
+        "y": 529
+    },
+    {
+        "type": "bed",
+        "x": 456,
+        "y": 560
+    },
+    {
+        "type": "bed",
+        "x": 482,
+        "y": 928
+    },
+    {
+        "type": "bed",
+        "x": 554,
+        "y": 388
+    },
+    {
+        "type": "bed",
+        "x": 612,
+        "y": 655
+    },
+    {
+        "type": "bed",
+        "x": 613,
+        "y": 154
+    },
+    {
+        "type": "bed",
+        "x": 686,
+        "y": 478
+    },
+    {
+        "type": "bed",
+        "x": 890,
+        "y": 209
+    },
+    {
+        "type": "bed",
+        "x": 913,
+        "y": 699
+    },
+    {
+        "type": "bed",
+        "x": 949,
+        "y": 991
+    },
+    {
+        "type": "bed",
+        "x": 971,
+        "y": 744
+    },
+    {
+        "type": "bed",
+        "x": 978,
+        "y": 150
+    },
+    {
+        "type": "bed",
+        "x": 1006,
+        "y": 373
+    },
+    {
+        "type": "bed",
+        "x": 1173,
+        "y": 431
+    },
+    {
+        "type": "bed",
+        "x": 1275,
+        "y": 815
+    },
+    {
+        "type": "bed",
+        "x": 1368,
+        "y": 264
+    },
+    {
+        "type": "bed",
+        "x": 1402,
+        "y": 430
+    },
+    {
+        "type": "bed",
+        "x": 1428,
+        "y": 850
+    },
+    {
+        "type": "bed",
+        "x": 1449,
+        "y": 617
+    },
+    {
+        "type": "bed",
+        "x": 1616,
+        "y": 60
+    },
+    {
+        "type": "bed",
+        "x": 1644,
+        "y": 534
+    },
+    {
+        "type": "bed",
+        "x": 1670,
+        "y": 359
+    },
+    {
+        "type": "bed",
+        "x": 1773,
+        "y": 197
+    },
+    {
+        "type": "bed",
+        "x": 1879,
+        "y": 122
+    },
+    {
+        "type": "bed",
+        "x": 1930,
+        "y": 294
+    },
+    {
+        "type": "bed",
+        "x": 1941,
+        "y": 694
+    },
+    {
+        "type": "bed",
+        "x": 2053,
+        "y": 54
+    },
+    {
+        "type": "bed",
+        "x": 2053,
+        "y": 302
+    },
+    {
+        "type": "bed",
+        "x": 2097,
+        "y": 776
+    },
+    {
+        "type": "body-armour-shop",
+        "x": 1385,
+        "y": 430
+    },
+    {
+        "type": "body-armour-shop",
+        "x": 1941,
+        "y": 197
+    },
+    {
+        "type": "certificate-trader",
+        "x": 480,
+        "y": 206
+    },
+    {
+        "type": "certificate-trader",
+        "x": 539,
+        "y": 388
+    },
+    {
+        "type": "certificate-trader",
+        "x": 967,
+        "y": 719
+    },
+    {
+        "type": "certificate-trader",
+        "x": 1010,
+        "y": 146
+    },
+    {
+        "type": "certificate-trader",
+        "x": 1605,
+        "y": 605
+    },
+    {
+        "type": "tannery",
+        "x": 1252,
+        "y": 540
+    },
+    {
+        "type": "clothes-shop",
+        "x": 140,
+        "y": 91
+    },
+    {
+        "type": "clothes-shop",
+        "x": 1880,
+        "y": 246
+    },
+    {
+        "type": "clothes-shop",
+        "x": 2034,
+        "y": 722
+    },
+    {
+        "type": "combat-practice",
+        "x": 1980,
+        "y": 205
+    },
+    {
+        "type": "cookery-shop",
+        "x": 150,
+        "y": 7
+    },
+    {
+        "type": "cookery-shop",
+        "x": 223,
+        "y": 3
+    },
+    {
+        "type": "cookery-shop",
+        "x": 448,
+        "y": 946
+    },
+    {
+        "type": "crafting-shop",
+        "x": 628,
+        "y": 476
+    },
+    {
+        "type": "crafting-shop",
+        "x": 1300,
+        "y": 703
+    },
+    {
+        "type": "fishing-shop",
+        "x": 493,
+        "y": 246
+    },
+    {
+        "type": "fishing-shop",
+        "x": 1036,
+        "y": 155
+    },
+    {
+        "type": "fishing-shop",
+        "x": 1460,
+        "y": 640
+    },
+    {
+        "type": "fishing-point",
+        "x": 15,
+        "y": 62
+    },
+    {
+        "type": "fishing-point",
+        "x": 60,
+        "y": 231
+    },
+    {
+        "type": "fishing-point",
+        "x": 83,
+        "y": 120
+    },
+    {
+        "type": "fishing-point",
+        "x": 289,
+        "y": 152
+    },
+    {
+        "type": "fishing-point",
+        "x": 323,
+        "y": 233
+    },
+    {
+        "type": "fishing-point",
+        "x": 442,
+        "y": 328
+    },
+    {
+        "type": "fishing-point",
+        "x": 518,
+        "y": 194
+    },
+    {
+        "type": "fishing-point",
+        "x": 543,
+        "y": 225
+    },
+    {
+        "type": "fishing-point",
+        "x": 545,
+        "y": 196
+    },
+    {
+        "type": "fishing-point",
+        "x": 852,
+        "y": 529
+    },
+    {
+        "type": "fishing-point",
+        "x": 879,
+        "y": 666
+    },
+    {
+        "type": "fishing-point",
+        "x": 1014,
+        "y": 198
+    },
+    {
+        "type": "fishing-point",
+        "x": 1047,
+        "y": 205
+    },
+    {
+        "type": "fishing-point",
+        "x": 1077,
+        "y": 214
+    },
+    {
+        "type": "fishing-point",
+        "x": 1144,
+        "y": 980
+    },
+    {
+        "type": "fishing-point",
+        "x": 1171,
+        "y": 751
+    },
+    {
+        "type": "fishing-point",
+        "x": 1182,
+        "y": 729
+    },
+    {
+        "type": "fishing-point",
+        "x": 1197,
+        "y": 755
+    },
+    {
+        "type": "fishing-point",
+        "x": 1388,
+        "y": 795
+    },
+    {
+        "type": "fishing-point",
+        "x": 1399,
+        "y": 808
+    },
+    {
+        "type": "fishing-point",
+        "x": 1594,
+        "y": 631
+    },
+    {
+        "type": "fishing-point",
+        "x": 1607,
+        "y": 659
+    },
+    {
+        "type": "fishing-point",
+        "x": 1624,
+        "y": 673
+    },
+    {
+        "type": "fishing-point",
+        "x": 1658,
+        "y": 217
+    },
+    {
+        "type": "fishing-point",
+        "x": 1672,
+        "y": 201
+    },
+    {
+        "type": "fishing-point",
+        "x": 1914,
+        "y": 587
+    },
+    {
+        "type": "fishing-point",
+        "x": 2018,
+        "y": 843
+    },
+    {
+        "type": "food-shop",
+        "x": 140,
+        "y": 31
+    },
+    {
+        "type": "food-shop",
+        "x": 659,
+        "y": 493
+    },
+    {
+        "type": "food-shop",
+        "x": 660,
+        "y": 467
+    },
+    {
+        "type": "food-shop",
+        "x": 1470,
+        "y": 669
+    },
+    {
+        "type": "shield-shop",
+        "x": 1365,
+        "y": 294
+    },
+    {
+        "type": "furnace",
+        "x": 516,
+        "y": 473
+    },
+    {
+        "type": "furnace",
+        "x": 1035,
+        "y": 382
+    },
+    {
+        "type": "furnace",
+        "x": 1368,
+        "y": 332
+    },
+    {
+        "type": "furnace",
+        "x": 1898,
+        "y": 581
+    },
+    {
+        "type": "furnace",
+        "x": 2038,
+        "y": 738
+    },
+    {
+        "type": "gem-shop",
+        "x": 642,
+        "y": 495
+    },
+    {
+        "type": "gem-shop",
+        "x": 1299,
+        "y": 401
+    },
+    {
+        "type": "gem-shop",
+        "x": 2033,
+        "y": 699
+    },
+    {
+        "type": "general-shop",
+        "x": 229,
+        "y": 451
+    },
+    {
+        "type": "general-shop",
+        "x": 345,
+        "y": 810
+    },
+    {
+        "type": "general-shop",
+        "x": 553,
+        "y": 501
+    },
+    {
+        "type": "general-shop",
+        "x": 912,
+        "y": 951
+    },
+    {
+        "type": "general-shop",
+        "x": 979,
+        "y": 214
+    },
+    {
+        "type": "general-shop",
+        "x": 1207,
+        "y": 838
+    },
+    {
+        "type": "general-shop",
+        "x": 1302,
+        "y": 678
+    },
+    {
+        "type": "general-shop",
+        "x": 1335,
+        "y": 295
+    },
+    {
+        "type": "general-shop",
+        "x": 1621,
+        "y": 23
+    },
+    {
+        "type": "general-shop",
+        "x": 1887,
+        "y": 622
+    },
+    {
+        "type": "general-shop",
+        "x": 1910,
+        "y": 242
+    },
+    {
+        "type": "general-shop",
+        "x": 2124,
+        "y": 741
+    },
+    {
+        "type": "helmet-shop",
+        "x": 1586,
+        "y": 226
+    },
+    {
+        "type": "herblaw-shop",
+        "x": 981,
+        "y": 390
+    },
+    {
+        "type": "herblaw-shop",
+        "x": 1190,
+        "y": 217
+    },
+    {
+        "type": "jewellery-shop",
+        "x": 1455,
+        "y": 594
+    },
+    {
+        "type": "kebab-shop",
+        "x": 2031,
+        "y": 751
+    },
+    {
+        "type": "leg-armour-shop",
+        "x": 2127,
+        "y": 759
+    },
+    {
+        "type": "mace-shop",
+        "x": 1307,
+        "y": 315
+    },
+    {
+        "type": "magic-shop",
+        "x": 1473,
+        "y": 596
+    },
+    {
+        "type": "magic-shop",
+        "x": 1989,
+        "y": 265
+    },
+    {
+        "type": "mining-site",
+        "x": 449,
+        "y": 655
+    },
+    {
+        "type": "mining-site",
+        "x": 465,
+        "y": 51
+    },
+    {
+        "type": "mining-site",
+        "x": 583,
+        "y": 830
+    },
+    {
+        "type": "mining-site",
+        "x": 728,
+        "y": 409
+    },
+    {
+        "type": "mining-site",
+        "x": 779,
+        "y": 726
+    },
+    {
+        "type": "mining-site",
+        "x": 782,
+        "y": 823
+    },
+    {
+        "type": "mining-site",
+        "x": 1026,
+        "y": 298
+    },
+    {
+        "type": "mining-site",
+        "x": 1055,
+        "y": 528
+    },
+    {
+        "type": "mining-site",
+        "x": 1204,
+        "y": 350
+    },
+    {
+        "type": "mining-site",
+        "x": 1277,
+        "y": 533
+    },
+    {
+        "type": "mining-site",
+        "x": 1358,
+        "y": 615
+    },
+    {
+        "type": "mining-site",
+        "x": 1618,
+        "y": 208
+    },
+    {
+        "type": "mining-site",
+        "x": 1812,
+        "y": 316
+    },
+    {
+        "type": "mining-site",
+        "x": 2074,
+        "y": 335
+    },
+    {
+        "type": "mining-site",
+        "x": 2078,
+        "y": 453
+    },
+    {
+        "type": "pickable-lock",
+        "x": 442,
+        "y": 365
+    },
+    {
+        "type": "pickable-lock",
+        "x": 459,
+        "y": 509
+    },
+    {
+        "type": "pickable-lock",
+        "x": 470,
+        "y": 445
+    },
+    {
+        "type": "pickable-lock",
+        "x": 540,
+        "y": 436
+    },
+    {
+        "type": "pickable-lock",
+        "x": 674,
+        "y": 503
+    },
+    {
+        "type": "pickable-lock",
+        "x": 678,
+        "y": 465
+    },
+    {
+        "type": "pub",
+        "x": 223,
+        "y": 22
+    },
+    {
+        "type": "pub",
+        "x": 399,
+        "y": 986
+    },
+    {
+        "type": "pub",
+        "x": 446,
+        "y": 446
+    },
+    {
+        "type": "pub",
+        "x": 507,
+        "y": 842
+    },
+    {
+        "type": "pub",
+        "x": 722,
+        "y": 51
+    },
+    {
+        "type": "pub",
+        "x": 936,
+        "y": 799
+    },
+    {
+        "type": "pub",
+        "x": 1336,
+        "y": 336
+    },
+    {
+        "type": "pub",
+        "x": 1529,
+        "y": 570
+    },
+    {
+        "type": "pub",
+        "x": 1928,
+        "y": 266
+    },
+    {
+        "type": "pub",
+        "x": 2047,
+        "y": 38
+    },
+    {
+        "type": "scimitar-shop",
+        "x": 2063,
+        "y": 725
+    },
+    {
+        "type": "silk-trader",
+        "x": 597,
+        "y": 483
+    },
+    {
+        "type": "silk-trader",
+        "x": 2065,
+        "y": 705
+    },
+    {
+        "type": "skirt-armour-shop",
+        "x": 2130,
+        "y": 783
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 109,
+        "y": 262
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 127,
+        "y": 238
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 719,
+        "y": 93
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 1237,
+        "y": 538
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 1604,
+        "y": 223
+    },
+    {
+        "type": "spinning-wheel",
+        "x": 1874,
+        "y": 698
+    },
+    {
+        "type": "staff-shop",
+        "x": 1872,
+        "y": 211
+    },
+    {
+        "type": "sword-shop",
+        "x": 1152,
+        "y": 205
+    },
+    {
+        "type": "sword-shop",
+        "x": 1886,
+        "y": 270
+    },
+    {
+        "type": "rare-trees",
+        "x": 21,
+        "y": 262
+    },
+    {
+        "type": "rare-trees",
+        "x": 99,
+        "y": 228
+    },
+    {
+        "type": "rare-trees",
+        "x": 613,
+        "y": 80
+    },
+    {
+        "type": "rare-trees",
+        "x": 733,
+        "y": 177
+    },
+    {
+        "type": "rare-trees",
+        "x": 739,
+        "y": 120
+    },
+    {
+        "type": "rare-trees",
+        "x": 756,
+        "y": 293
+    },
+    {
+        "type": "rare-trees",
+        "x": 773,
+        "y": 21
+    },
+    {
+        "type": "rare-trees",
+        "x": 799,
+        "y": 395
+    },
+    {
+        "type": "quest",
+        "x": 154,
+        "y": 451
+    },
+    {
+        "type": "quest",
+        "x": 184,
+        "y": 44
+    },
+    {
+        "type": "quest",
+        "x": 305,
+        "y": 783
+    },
+    {
+        "type": "quest",
+        "x": 333,
+        "y": 44
+    },
+    {
+        "type": "quest",
+        "x": 433,
+        "y": 431
+    },
+    {
+        "type": "quest",
+        "x": 437,
+        "y": 460
+    },
+    {
+        "type": "quest",
+        "x": 439,
+        "y": 557
+    },
+    {
+        "type": "quest",
+        "x": 472,
+        "y": 497
+    },
+    {
+        "type": "quest",
+        "x": 539,
+        "y": 691
+    },
+    {
+        "type": "quest",
+        "x": 545,
+        "y": 596
+    },
+    {
+        "type": "quest",
+        "x": 568,
+        "y": 725
+    },
+    {
+        "type": "quest",
+        "x": 734,
+        "y": 534
+    },
+    {
+        "type": "quest",
+        "x": 757,
+        "y": 224
+    },
+    {
+        "type": "quest",
+        "x": 897,
+        "y": 9
+    },
+    {
+        "type": "quest",
+        "x": 984,
+        "y": 951
+    },
+    {
+        "type": "quest",
+        "x": 1009,
+        "y": 71
+    },
+    {
+        "type": "quest",
+        "x": 1156,
+        "y": 27
+    },
+    {
+        "type": "quest",
+        "x": 1223,
+        "y": 164
+    },
+    {
+        "type": "quest",
+        "x": 1236,
+        "y": 72
+    },
+    {
+        "type": "quest",
+        "x": 1311,
+        "y": 171
+    },
+    {
+        "type": "quest",
+        "x": 1344,
+        "y": 380
+    },
+    {
+        "type": "quest",
+        "x": 1347,
+        "y": 700
+    },
+    {
+        "type": "quest",
+        "x": 1359,
+        "y": 409
+    },
+    {
+        "type": "quest",
+        "x": 1529,
+        "y": 585
+    },
+    {
+        "type": "quest",
+        "x": 1544,
+        "y": 579
+    },
+    {
+        "type": "quest",
+        "x": 1644,
+        "y": 777
+    },
+    {
+        "type": "quest",
+        "x": 1645,
+        "y": 557
+    },
+    {
+        "type": "quest",
+        "x": 1663,
+        "y": 409
+    },
+    {
+        "type": "quest",
+        "x": 1763,
+        "y": 706
+    },
+    {
+        "type": "quest",
+        "x": 1789,
+        "y": 196
+    },
+    {
+        "type": "quest",
+        "x": 1815,
+        "y": 553
+    },
+    {
+        "type": "quest",
+        "x": 1891,
+        "y": 679
+    },
+    {
+        "type": "quest",
+        "x": 1895,
+        "y": 243
+    },
+    {
+        "type": "quest",
+        "x": 1900,
+        "y": 70
+    },
+    {
+        "type": "quest",
+        "x": 1963,
+        "y": 689
+    },
+    {
+        "type": "quest",
+        "x": 2037,
+        "y": 269
+    },
+    {
+        "type": "quest",
+        "x": 2067,
+        "y": 790
+    },
+    {
+        "type": "dungeon",
+        "x": 330,
+        "y": 825
+    },
+    {
+        "type": "dungeon",
+        "x": 437,
+        "y": 351
+    },
+    {
+        "type": "dungeon",
+        "x": 492,
+        "y": 865
+    },
+    {
+        "type": "dungeon",
+        "x": 522,
+        "y": 992
+    },
+    {
+        "type": "dungeon",
+        "x": 692,
+        "y": 247
+    },
+    {
+        "type": "dungeon",
+        "x": 722,
+        "y": 512
+    },
+    {
+        "type": "dungeon",
+        "x": 939,
+        "y": 751
+    },
+    {
+        "type": "dungeon",
+        "x": 1008,
+        "y": 336
+    },
+    {
+        "type": "dungeon",
+        "x": 1021,
+        "y": 786
+    },
+    {
+        "type": "dungeon",
+        "x": 1035,
+        "y": 583
+    },
+    {
+        "type": "dungeon",
+        "x": 1092,
+        "y": 6
+    },
+    {
+        "type": "dungeon",
+        "x": 1168,
+        "y": 258
+    },
+    {
+        "type": "dungeon",
+        "x": 1434,
+        "y": 825
+    },
+    {
+        "type": "dungeon",
+        "x": 1646,
+        "y": 102
+    },
+    {
+        "type": "dungeon",
+        "x": 1959,
+        "y": 119
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "rsc-map-scrape",
+  "version": "1.0.0",
+  "description": "scrape text and points of interest from a runescape classic map image",
+  "main": "index.js",
+  "scripts": {
+    "get-opencv": "wget https://docs.opencv.org/master/opencv.js -O ./lib/opencv.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003scape/rsc-map-scrape.git"
+  },
+  "keywords": [
+    "runescape",
+    "rsc",
+    "map",
+    "image"
+  ],
+  "author": "2003Scape Team",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/2003scape/rsc-map-scrape/issues"
+  },
+  "homepage": "https://github.com/2003scape/rsc-map-scrape#readme",
+  "dependencies": {
+    "jimp": "^0.8.5"
+  }
+}
