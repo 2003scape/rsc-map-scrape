@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/2003scape/rsc-map-scrape#readme",
   "dependencies": {
-    "jimp": "^0.8.5"
+    "jimp": "^0.22.7"
   }
 }
